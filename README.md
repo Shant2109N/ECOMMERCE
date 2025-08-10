@@ -27,7 +27,8 @@ MySQL
 ⚡ Optimizing queries with indexes for faster performance
 
 📸 Screenshots
-
+1) https://github.com/Shant2109N/ECOMMERCE/blob/main/Capture1.JPG
+2) 
 
 🚀 Why This Project?
 
