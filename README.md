@@ -30,6 +30,7 @@ MySQL
 1) https://github.com/Shant2109N/ECOMMERCE/blob/main/Capture1.JPG
 2) https://github.com/Shant2109N/ECOMMERCE/blob/main/Capture2.JPG
 3) https://github.com/Shant2109N/ECOMMERCE/blob/main/Capture5.JPG
+4) https://github.com/Shant2109N/ECOMMERCE/blob/main/Capture6.JPG
 
 🚀 Why This Project?
 
